@@ -2,7 +2,7 @@
 // Question
 // Why output in the console shown as 4 (numeric) four times?
 // Anwser
-// That the for loop executes first, then it looks for the i value, which is 5, and then outputs four times
+// That the for loop executes first, then it looks for the i value, which is 4, and then outputs four times
 //Test 1 - 1
 for (var i = 0; i < 4; i++) {
     timeout(i);
